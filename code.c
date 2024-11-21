@@ -7,4 +7,5 @@ using namespace std;
 int main(void)
 {
 	cout<<"test"<<"\n";
+	cout<<"123456";
 }
